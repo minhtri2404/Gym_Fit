@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicrosvApplication<microsv>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rawuy.microsv.MicrosvApplication",
+            "projectName": "microsv",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LaptopshopApplication<laptopshop>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.rawuy.laptopshop.LaptopshopApplication",
+            "projectName": "laptopshop",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
