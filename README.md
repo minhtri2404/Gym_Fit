@@ -5,6 +5,7 @@
 Gym_fit là một hệ thống quản lý phòng gym được xây dựng với các công nghệ hiện đại. Hệ thống bao gồm một giao diện người dùng (UI) thân thiện và dễ sử dụng với frontend sử dụng HTML, CSS, Bootstrap và JavaScript, kết hợp với backend mạnh mẽ sử dụng Spring Boot và kiến trúc microservices.
 
 🏗️ Cấu trúc dự án
+
 💻 Frontend:
 HTML: Cung cấp cấu trúc trang web.
 
