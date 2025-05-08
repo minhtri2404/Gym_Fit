@@ -7,6 +7,7 @@ Gym_fit là một hệ thống quản lý phòng gym được xây dựng với 
 🏗️ Cấu trúc dự án
 
 💻 Frontend:
+
 HTML: Cung cấp cấu trúc trang web.
 
 CSS: Định dạng giao diện và bố cục của hệ thống.
